@@ -1,2 +1,2 @@
-# pmdr-privacy
-Pmdr app privacy policy
+# Pmdr privacy
+Pmdr app doesn't store any of your data. 
